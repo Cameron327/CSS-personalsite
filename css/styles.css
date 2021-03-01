@@ -1,0 +1,21 @@
+body {
+  background-color: #eaffd0;
+}
+
+hr {
+  /*The background color was for if we wanted to color the horizontal line box. We don't need it anymore since we turned it into a line with height 0
+background-color: white; */
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
